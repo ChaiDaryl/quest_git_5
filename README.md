@@ -1,3 +1,3 @@
-# quest_git_5
+LOCAL
 
 ceci est pour la quête 5
